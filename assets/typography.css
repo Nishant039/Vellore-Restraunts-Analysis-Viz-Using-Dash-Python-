@@ -1,0 +1,13 @@
+body{
+background-color:#121212;
+padding:0px;
+margin:0px;
+}
+
+option,input{
+color:red;
+background-color:black;
+border:None;
+padding:0px;
+margin:0px;
+}
